@@ -5,7 +5,7 @@ Assignment 6: Contact Information Formatter
 
 Demonstrates mastery of string methods for data cleaning and formatting
 
-#Initialize an empty list to store contact entries
+# Initialize an empty list to store contact entries
 
 contacts = []
 

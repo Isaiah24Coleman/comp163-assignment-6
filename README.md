@@ -1,9 +1,12 @@
 # comp163-assignment-6
 # Isaiah24Coleman_assignment_6.py
 Student: Isaiah Coleman
-Assignment 6: Contact Information Formatter
+Assignment 6: Contact Information Formatter 
+
 Demonstrates mastery of string methods for data cleaning and formatting
-Initialize an empty list to store contact entries
+
+#Initialize an empty list to store contact entries
+
 contacts = []
 
 print("Enter contact information (format: name|phone|email|address):")
